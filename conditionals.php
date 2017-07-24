@@ -30,3 +30,38 @@ else {
 ?>
 
 <!-- Negation Operator -->
+<!-- compare if something is equal but rather we need to compare if something is NOT equal -->
+<?php
+$a = 0;
+$b = 5;
+
+if ($a == $b) {
+} else {
+   echo 'values are NOT equal';
+}
+if (($a == $b) == false) {
+ echo 'values are NOT equal';
+}
+if ($a <> $b) {
+ echo 'values are NOT equal';
+}
+if ($a != $b) {
+ echo 'values are NOT equal';
+}
+if ($a !== $b) {
+ echo 'NOT identical';
+}
+
+if ($c) {
+  echo 'true';
+}
+if (!$c) {
+  echo 'false';
+}
+if ($c == false) {
+  echo 'false';
+}
+if ($c != true) {
+  echo 'false';
+}
+?>
