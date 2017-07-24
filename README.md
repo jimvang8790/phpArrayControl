@@ -8,3 +8,4 @@ Notes
 -----
 
 <img src="images/comparison.png">
+<img src="images/logicalOpp.png">
