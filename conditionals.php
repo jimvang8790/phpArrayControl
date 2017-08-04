@@ -81,3 +81,32 @@ if ($num >= 10) {
 }
 
 ?>
+
+<!-- Logical Operators -->
+<?php
+
+$num = 10;
+
+// and
+if ($num >= 10 && $num <=1000 ) {
+
+    echo 'your number is within the range';
+} else {
+    echo ' your number is less than 10, NOT within the range';
+}
+
+// or
+if ($num >= 10 || is_string($num) ) {
+
+    echo '10 or string';
+} else {
+    echo 'not 10 or string';
+}
+
+// priorities
+$var1 = true && false;
+$var2 = true and false; // equals is a higher priorities so $var2=true
+
+var_dump($var1,$var2);
+
+?>
