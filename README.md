@@ -9,6 +9,12 @@ Logical Operators
 
 If we want to check for multiple conditions at once, we can combine conditional statements using logical operators.
 
+Switch Case Statements
+----------------------
+
+PHP provides another control structure called a "switch" statement. Switch statements are similar to a series of IF statements that use the same expression. Switch statements allow you to compare many different values with the same variable or expression. For example: you may want to look at the day of the week, and perform different actions based on which day of the week it is.
+
+
 Notes
 -----
 

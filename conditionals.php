@@ -110,3 +110,19 @@ $var2 = true and false; // equals is a higher priorities so $var2=true
 var_dump($var1,$var2);
 
 ?>
+
+<!-- Without changing the variables, create a SINGLE conditional statement around the echo command that checks:
+1. That a $username is set.
+2. The users $role is NOT admin -->
+
+<?php
+$username = 'skethings';
+//Available roles: author, editor, admin
+$role = 'editor';
+
+//add conditional statement
+if(isset($username) && $role != 'admin')
+{
+echo "You do not have access to this page. Please contact your administrator.";
+}
+?>
