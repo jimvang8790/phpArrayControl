@@ -28,6 +28,13 @@ Adding Array Elements
 
 More info on PHP Array Functions: http://php.net/manual/en/ref.array.php
 
+Removing Array Elements
+-----------------------
+
+<img src="images/removingArrayElements.png">
+
+More info on PHP Array Functions: http://php.net/manual/en/ref.array.php
+
 Notes
 -----
 

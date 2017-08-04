@@ -6,6 +6,7 @@ var_dump($learn);
 echo $learn[1];
 
 // implode allows array to join elements together into a single string
+// implode show all the elements of an array, separated by a string
 echo implode("\n", $learn);
 
 ?>
@@ -23,3 +24,5 @@ array_unshift($learn, 'HMTL', 'CSS');
 var_dump($learn);
 
 ?>
+
+<!-- Removing Array Elements -->
