@@ -21,6 +21,13 @@ An array is a compound variable type meaning it can contain more than one value.
 
 Arrays in PHP are actually ordered maps. A map is a type that associates values to keys. This type is optimized for several different uses; it can be treated as an array, list (vector), hash table (an implementation of a map), dictionary, collection, stack, queue, and probably more. As array values can be other arrays, trees and multidimensional arrays are also possible.
 
+Adding Array Elements
+---------------------
+
+<img src="images/addingArrayElements.png">
+
+More info on PHP Array Functions: http://php.net/manual/en/ref.array.php
+
 Notes
 -----
 
