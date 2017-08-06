@@ -35,6 +35,11 @@ Removing Array Elements
 
 More info on PHP Array Functions: http://php.net/manual/en/ref.array.php
 
+Ediing Array Elements
+---------------------
+
+<img src="images/editingArrayElements.png">
+
 Notes
 -----
 
