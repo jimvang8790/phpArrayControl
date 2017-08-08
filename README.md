@@ -58,6 +58,13 @@ Mixing Data Types in Arrays
 
 <img src="images/mixingDataTypesInArrays.png">
 
+Multidimensional Arrays
+-----------------------
+
+Multidimensional arrays allow me to create an nested array of information for each item in my list. In this video we'll take a look at the format for creating multidimensional arrays.
+
+<img src="images/multidimensionalArrays.png">
+
 Notes
 -----
 

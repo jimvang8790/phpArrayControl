@@ -1,3 +1,4 @@
+<!-- Associative Arrays -->
 <?php
 $iceCream = array('Alena' => 'Black Cherry',
                   'Treasure' => 'Chocolate',
