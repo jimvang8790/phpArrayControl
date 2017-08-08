@@ -53,6 +53,11 @@ The comma after the last array element is optional and can be omitted. This is u
 
 <img src="images/associativeArrays.png">
 
+Mixing Data Types in Arrays
+---------------------------
+
+<img src="images/mixingDataTypesInArrays.png">
+
 Notes
 -----
 
