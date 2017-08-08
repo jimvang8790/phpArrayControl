@@ -26,6 +26,10 @@ echo $iceCream['Dave Thomas'] = 'Cookie'; // will create a new element
 echo $iceCream[] = 'Vanilla'; // add vanilla to the next avaible key
 echo $iceCream['Andrew'] = true; // a boolean
 
+// NOTE sorting array
+ksort($iceCream); // sort array alphabetical by keys
+asort($iceCream); // sort array alphabetical by value
+
 var_dump($iceCream);
 
 //type casting

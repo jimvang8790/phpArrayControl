@@ -65,6 +65,14 @@ Multidimensional arrays allow me to create an nested array of information for ea
 
 <img src="images/multidimensionalArrays.png">
 
+Sorting Arrays
+--------------
+
+What makes grouping variables in an array so useful? One of the extra tools arrays give us is the ability to sort. Sorting allows us to organize large amounts of data. We can sort by key or value, increasing the usefulness of our data.
+
+<img src="images/sortingArrays.png">
+<img src="images/sortingArraysFunction.png">
+
 Notes
 -----
 

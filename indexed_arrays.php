@@ -74,3 +74,32 @@ $learn[0] = 'email'; // NOTE editing array [0] to email
 var_dump($learn);
 
 ?>
+
+<!-- Sorting Arrays -->
+<?php
+$learn = array('Conditionals', 'Arrays', 'Loops');
+
+// [] tells php to add something to the array
+$learn[] = 'Build something awesome!';
+
+// push add objects to the end of the array
+array_push($learn, 'Functions', 'Forms', 'Objects');
+
+// unshift add objects to the beginning of the array
+array_unshift($learn, 'HMTL', 'CSS');
+array_shift($learn);
+
+// NOTE Sorting Array
+asort($learn); // sort by value and not keys
+sort($learn); // sort by key and not value
+rsort($learn); // sort values in reverse order
+shuffle($learn); // randomly sort values
+echo $learn[0]; // this + shuffle will pick out a random value
+var_dump($learn);
+
+unset($learn[1], $learn[2]); // remove any specific array element as long as you know the key. Unset can take multiple parameters. Remove keys one and two and values of conditionals and arrays are gone as well.
+$learn = array_values($learn);
+$learn[0] = 'email';
+//var_dump($learn);
+
+?>
