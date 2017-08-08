@@ -40,6 +40,19 @@ Ediing Array Elements
 
 <img src="images/editingArrayElements.png">
 
+Associative Arrays
+------------------
+
+You can assign your own keys to array elements -- and they don't have to be numbers. In fact, your code can be easier to read and understand if you use a name for a key. This is called an Associative Array, because a specific key is associated with a specific value.
+
+Arrays are also referred to as a hash or dictionary
+
+Comma After Elements
+
+The comma after the last array element is optional and can be omitted. This is usually done for single-line arrays, i.e. array(1, 2) is preferred over array(1, 2, ). For multi-line arrays on the other hand the trailing comma is commonly used, as it allows easier addition of new elements at the end.
+
+<img src="images/associativeArrays.png">
+
 Notes
 -----
 
