@@ -73,6 +73,13 @@ What makes grouping variables in an array so useful? One of the extra tools arra
 <img src="images/sortingArrays.png">
 <img src="images/sortingArraysFunction.png">
 
+Doing While Looping
+-------------------
+
+In programming, a loop is a way to repeat the same actions a certain number of times, or until a certain condition is true. Instead of typing the exact same code, a loop will allow us to write that code one time then repeat that code WHILE a condition is true.
+
+<img src="images/doWhileLooping.png">
+
 Notes
 -----
 
