@@ -87,6 +87,19 @@ Arrays are a collection of items, which mean that, often times, we want to do th
 
 <img src="images/whileListArray.png">
 
+For Loops
+---------
+
+for loops are the most complex loops in PHP because the contain three expressions. The first expression (expr1) is evaluated (executed) once unconditionally at the beginning of the loop.
+
+In the beginning of each iteration, expr2 is evaluated. If it evaluates to TRUE, the loop continues and the nested statement(s) are executed. If it evaluates to FALSE, the execution of the loop ends.
+
+At the end of each iteration, expr3 is evaluated (executed).
+
+Each of the expressions can be empty or contain multiple expressions separated by commas.
+
+<img src="images/forLoops.png">
+
 Notes
 -----
 
