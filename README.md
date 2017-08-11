@@ -80,6 +80,13 @@ In programming, a loop is a way to repeat the same actions a certain number of t
 
 <img src="images/doWhileLooping.png">
 
+While Listing Array Values
+--------------------------
+
+Arrays are a collection of items, which mean that, often times, we want to do the same thing with each item in the array. Loops allow us to do just that. We can loop through an entire array, or part of an array, and perform any number of actions on each item. In this video we'll use our while loop to loop through the todo list.
+
+<img src="images/whileListArray.png">
+
 Notes
 -----
 
