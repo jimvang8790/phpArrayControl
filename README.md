@@ -100,6 +100,13 @@ Each of the expressions can be empty or contain multiple expressions separated b
 
 <img src="images/forLoops.png">
 
+Foreach Loops
+-------------
+
+foreach loops will allow you to grab the value and optionally the key, but not the key on its own.
+
+You can use foreach loops with any type of array, and your array can have any key value. You can choose to grab just the item value or the key value as well. A foreach loop is a lot like combining the WHILE statement with the each function, only even easier.
+
 Notes
 -----
 
