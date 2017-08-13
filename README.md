@@ -107,6 +107,8 @@ foreach loops will allow you to grab the value and optionally the key, but not t
 
 You can use foreach loops with any type of array, and your array can have any key value. You can choose to grab just the item value or the key value as well. A foreach loop is a lot like combining the WHILE statement with the each function, only even easier.
 
+The next loop we'll look at is a "for loop". for loops are the most complex loops in PHP because they use three expressions instead of just one.
+
 Notes
 -----
 
